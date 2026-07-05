@@ -43,3 +43,11 @@ A menu-driven C program that performs basic electrical engineering calculations 
 2. Calculate Resistance
 3. Calculate Current
 
+---
+
+## 🚀 Level 2 Features
+
+- Ohm’s Law Solver (Find V, I, R)
+- Voltage Divider Calculator
+- Menu-driven interface
+- Input validation
