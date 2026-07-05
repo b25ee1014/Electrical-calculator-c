@@ -27,8 +27,19 @@ A menu-driven C program that performs basic electrical engineering calculations 
 
 ---
 
-## ▶️ How to Run
+## 🛠️ How to Run
 
-1. Compile the program:
-   ```bash
-   gcc main.c -o calc
+1. Compile:
+   gcc main.c -o calculator
+
+2. Run:
+   ./calculator
+
+---
+## 📸 Sample Output
+
+--- Electrical Calculator ---
+1. Calculate Power
+2. Calculate Resistance
+3. Calculate Current
+
